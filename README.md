@@ -8,13 +8,13 @@ BigFile-Hunter is a lightweight Windows batch utility that scans selected drives
 
 ## Storage before and after
 
-The screenshots below show the drive's free space before and after cleanup:
+The screenshots below show the drive's free space before and after cleanup.
 
 <p align="center">
   <table>
     <tr>
-      <td align="center"><strong>🔴 Before cleanup</strong><br><img src="https://raw.githubusercontent.com/Abujeje-sudo/BigFile-Hunter/main/README_images/before.png" alt="Before cleanup" width="420" /></td>
-      <td align="center"><strong>🔵 After cleanup</strong><br><img src="https://raw.githubusercontent.com/Abujeje-sudo/BigFile-Hunter/main/README_images/after.png" alt="After cleanup" width="420" /></td>
+      <td align="center"><strong>🔴 Before cleanup</strong><br><img src="README_images/before.png" alt="Before cleanup" width="420" /></td>
+      <td align="center"><strong>🔵 After cleanup</strong><br><img src="README_images/after.png" alt="After cleanup" width="420" /></td>
     </tr>
   </table>
 </p>
