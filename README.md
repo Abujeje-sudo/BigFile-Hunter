@@ -8,14 +8,20 @@ BigFile-Hunter is a lightweight Windows batch utility that scans selected drives
 
 ## Storage before and after
 
-The screenshots you provided show the drive's available space before and after cleanup:
+The screenshots below show the drive's free space before and after cleanup:
 
-| 🔴 Before cleanup | 🔵 After cleanup |
-| --- | --- |
-| **2.46 GB free** | **199 GB free** |
-| 475 GB total capacity | 475 GB total capacity |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>🔴 Before cleanup</strong><br><img src="https://raw.githubusercontent.com/Abujeje-sudo/BigFile-Hunter/main/README_images/before.png" alt="Before cleanup" width="420" /></td>
+      <td align="center"><strong>🔵 After cleanup</strong><br><img src="https://raw.githubusercontent.com/Abujeje-sudo/BigFile-Hunter/main/README_images/after.png" alt="After cleanup" width="420" /></td>
+    </tr>
+  </table>
+</p>
 
-That is approximately **196.54 GB more free space**. Your results will vary depending on which files you choose to remove.
+- **Before:** 2.46 GB free of 475 GB
+- **After:** 199 GB free of 475 GB
+- **Improvement:** about 196.54 GB more free space
 
 ## Features
 
